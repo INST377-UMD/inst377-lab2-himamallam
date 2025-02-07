@@ -1,0 +1,45 @@
+/* Form Page Styles */
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+.form-group {
+    margin: 20px;
+    font-size: 18px;
+}
+
+input {
+    padding: 10px;
+    margin: 10px;
+    font-size: 16px;
+}
+
+.submit-btn {
+    background-color: darkblue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.submit-btn:hover {
+    background-color: navy;
+}
+
+/* Thank You Page Styles */
+.thankyou-page {
+    background-color: violet;
+}
+
+img {
+    width: 50%;
+    display: block;
+    margin: 20px auto;
+}
